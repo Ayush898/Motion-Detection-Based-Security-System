@@ -1,0 +1,3 @@
+The Code take first frame as a inital image and compare the rest of frames to  check the movement. So, make sure that if you start the code there should be no movement at the starting of the camera. 
+The first frame should be still.
+And According to the frame rate of your monitor, the program cature that many frames per sec and compare it from first frame. If any movement or changes detected, compare to the first frame, it highlights that part by making a rectangle at that particular region.
